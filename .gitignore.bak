@@ -30,11 +30,3 @@
 *.exe
 *.out
 *.app
-
-*.bin/
-*.obj
-*.vs/
-
-bin/
-obj/
-vs/
